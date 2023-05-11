@@ -1,0 +1,26 @@
+body{
+    background: rgb(48, 203, 250);
+}
+
+.contianer {
+    width: 600px;
+    margin: 40px auto;
+    text-align: center;
+    border: solid 1px;
+}
+
+h3 {
+    color: #b71ca2;
+    font-size: 3em;
+    letter-spacing: 0.1em;
+    margin-top: 0px;
+    margin-bottom: 10px;
+}
+
+h4 {
+    color: #b71ca2;
+    font-size: 1em;
+    letter-spacing: 0.1em;
+    margin-top: 0px;
+    margin-bottom: 40px;
+}
