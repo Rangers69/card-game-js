@@ -60,7 +60,7 @@ h4 {
     backface-visibility:hidden;
     border-radius: 50%;
 }
-.gambar:hover{
+.buka, .betul{
     transform: rotateY(180deg);
 }
 #game{
